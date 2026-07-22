@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "MCP para acceder a datos de Suunto",
   "server": {
-    "url": "https://<TU-URL-DE-RENDER>.onrender.com"
+    "url": "https://suunto-mcp.onrender.com"
   },
   "tools": [
     {
